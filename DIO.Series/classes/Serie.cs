@@ -1,3 +1,5 @@
+using System.Runtime.CompilerServices;
+using System.Globalization;
 using System;
 namespace DIO.Series
 {
@@ -42,6 +44,11 @@ namespace DIO.Series
         public int retornaId()
         {
             return this.Id;
+        }
+
+        public bool retornaExcluido()
+        {
+            return this.Excluido;
         }
 
         public void Exclui()

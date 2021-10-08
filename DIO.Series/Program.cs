@@ -1,4 +1,7 @@
-﻿using System;
+﻿using System.ComponentModel.Design.Serialization;
+using System.Reflection.Metadata;
+using System.Runtime.Serialization;
+using System;
 using DIO.Series.classes;
 
 namespace DIO.Series
@@ -58,7 +61,9 @@ namespace DIO.Series
 
             foreach (var serie in lista)
             {
-                Console.WriteLine("#ID {0}: - {1}" , serie.retornaId(), serie.retornaTitulo());
+                var excluido = serie.retornaExcluido();
+                
+                Console.WriteLine("#ID {0}: - {1} - {2}" , serie.retornaId(), serie.retornaTitulo(), excluido ? "Excluido" : "");
             }
         }
 

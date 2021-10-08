@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\DIO\\DIO.Series\\DIO.Series.csproj": {}
+    "C:\\workspace\\DIO\\CRUD-Series\\DIO.Series\\DIO.Series.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\DIO\\DIO.Series\\DIO.Series.csproj": {
+    "C:\\workspace\\DIO\\CRUD-Series\\DIO.Series\\DIO.Series.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\DIO\\DIO.Series\\DIO.Series.csproj",
+        "projectUniqueName": "C:\\workspace\\DIO\\CRUD-Series\\DIO.Series\\DIO.Series.csproj",
         "projectName": "DIO.Series",
-        "projectPath": "C:\\workspace\\DIO\\DIO.Series\\DIO.Series.csproj",
+        "projectPath": "C:\\workspace\\DIO\\CRUD-Series\\DIO.Series\\DIO.Series.csproj",
         "packagesPath": "C:\\Users\\tiago\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\DIO\\DIO.Series\\obj\\",
+        "outputPath": "C:\\workspace\\DIO\\CRUD-Series\\DIO.Series\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

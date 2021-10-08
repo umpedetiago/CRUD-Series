@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GJKu36qpxOlN8/KqN3QIfpet1HfuP3PTvn4iMSCoO7rF7lq3XqklhYH64Tj3yr6+N94pZ4BqT4YN3UW6zB3Q0Q==",
+  "dgSpecHash": "4zi4Puuewv/TwhBORWdPxgEIWBjk77YD5LJmULGOhd9dvbFUZmmv1TF4X2D5883XZKQcWR8hJ5rjtwe7WgkxzQ==",
   "success": true,
-  "projectFilePath": "C:\\workspace\\DIO\\DIO.Series\\DIO.Series.csproj",
+  "projectFilePath": "C:\\workspace\\DIO\\CRUD-Series\\DIO.Series\\DIO.Series.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
